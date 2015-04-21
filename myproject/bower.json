@@ -1,0 +1,11 @@
+{
+  "name": "MyProject",
+  "description": "test application",
+  "version": "0.0.1",
+  "homepage": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x"
+  }
+}
